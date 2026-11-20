@@ -1,0 +1,10 @@
+# Virtual Environment & Secrets
+.venv/
+.env
+
+# Raw Data
+data/raw/
+
+# Jupyter & Python Caches
+__pycache__/
+.ipynb_checkpoints/
